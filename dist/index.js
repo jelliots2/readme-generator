@@ -84,6 +84,7 @@ function init() {
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [Tests](#tests)
+- [License](#license)
 - [Questions](#questions)
 
 ## Description
@@ -102,7 +103,7 @@ ${answers.contributing}
 ${answers.tests}
 
 ## License
-This project is licensed under the ${answers.license} License. See the [badge](https://img.shields.io/badge/License-${encodeURIComponent(answers.license).replace(/%20/g, '+')}-<color>) for more details.
+This project is licensed under the ${answers.license} License.
 
 ## Questions
 For any questions, please contact me at [${answers.email}](mailto:${answers.email}) or visit my GitHub profile: [${answers.github}](https://github.com/${answers.github}).
